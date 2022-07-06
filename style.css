@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: blue;
+}
+b {
+    color: blue;
+}
+i {
+    color: cadetblue;
+}
+d {
+    color: coral;
+}
+.s {
+    color: blue;
+    text-align: right;
+    font-size: 23px;
+}
+.w {
+    color: black;
+    text-align: right;
+    font-size: 23px;
+}
+.a {
+    color: greenyellow;
+    text-align: right;
+    font-size: 23px;    
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1 img {
+    text-align: center;
+}
+.r {
+    font-size: 50px;
+    text-align: center;
+}
+.r img {
+    width: 500px;
+    height: 300px;
+}
+.a img {
+    height: 100px;
+    width: 100px;
+}
